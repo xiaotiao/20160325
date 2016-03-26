@@ -1,2 +1,4 @@
 git is simple but somtime will be diffcult if you don't konw the theroy of it
-add a line 
+hehe
+add a line
+
